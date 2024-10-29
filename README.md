@@ -1,6 +1,6 @@
 # MACRO_RUST_FREE_EXTERN
 
-Macro externo, gratuito e totalmente indetectável! Basta solicitar sua chave mensal na comunidade: https://discord.gg/WgsdPF8Uv8 ou pelo Discord: "coioto_chan".
+Macro externo, gratuito e totalmente indetectável! inserir a key sem as aspas: "Coioto_Public-Macro_Rust" | comunidade: https://discord.gg/WgsdPF8Uv8 ou Discord: "coioto_chan".
 
 Não há segredo para usar! Trata-se de um programa que roda de forma totalmente externa, sem efetuar nenhum tipo de leitura ou alteração de memória no jogo, algo muito parecido com os scripts vendidos para mouses. Portanto, não se preocupe em como utilizá-lo. Recomendo apenas que não deixe nenhum programa de depuração aberto, como: OllyDBG, IDAx64, ProcessHacker, etc. A execução do macro com algum desses programas abertos resultará no banimento HWID de sua máquina.
 
