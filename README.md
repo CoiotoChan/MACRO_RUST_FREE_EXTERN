@@ -1,15 +1,17 @@
 # MACRO_RUST_FREE_EXTERN
-Macro extern, gratuito e totalmente indetectável!! Basta solicitar sua chave mensal em comunidade: https://discord.gg/WgsdPF8Uv8 ou Discord: "coioto_chan".
 
-Não existe segredo para usar, como se trata de um programa que roda de forma totalmente externa e sem efetuar nenhum tipo de leitura ou alteração de memoria no jogo, algo muito parecido com os scripts vendidos ára mouses, então nao se preocupe em como usar, recomendo apenas não deixar nenhum programa de depuração aberto, tais como: OllyDBG, IDAx64, ProcessHacker, etc. A abertura do macro com um dos programas citados em execução, resultará no banimento HWID de sua maquina.
+Macro externo, gratuito e totalmente indetectável! Basta solicitar sua chave mensal na comunidade: https://discord.gg/WgsdPF8Uv8 ou pelo Discord: "coioto_chan".
 
-Caso ainda esta com duvida em como usar, é facil:
-1) Exetute o .exe e insira a key de acesso, não faz diferença se o jogo esta aberto ou não.
-2) Na Page #1, insira as suas configs de sensibilidade, ess passo é de extrema importancia, caso contrario, pode afetar a performance do macro.
-3) Tambem na Page #1, voce escolhe se quer ativar ou não o macro e mais importante, qual arma você esta jogando e se esta acoplado algum acessorio, como quebra-chamas, compensador, mira, etc. Tambem influencia diretamente na performance do macro.
-4) Na Page #2, voce pode verificar o tempo restante de sua key e as informações do criador.
-5) Na Page #3, é possivel alterar a key de ação, tais como: Abertura do menu, tecla reponsavel por fazer funcionar o macro.
-6) Ainda na Page #3, é possivel tbm escolher se voce quer que a marca dagua presente no canto superior esquerdo da tela deve ser visivel ou não.
+Não há segredo para usar! Trata-se de um programa que roda de forma totalmente externa, sem efetuar nenhum tipo de leitura ou alteração de memória no jogo, algo muito parecido com os scripts vendidos para mouses. Portanto, não se preocupe em como utilizá-lo. Recomendo apenas que não deixe nenhum programa de depuração aberto, como: OllyDBG, IDAx64, ProcessHacker, etc. A execução do macro com algum desses programas abertos resultará no banimento HWID de sua máquina.
+
+Caso ainda esteja com dúvidas sobre o uso, é fácil:
+
+1) Execute o .exe e insira a chave de acesso. Não faz diferença se o jogo está aberto ou não.
+2) Na Page #1, insira suas configurações de sensibilidade. Esse passo é de extrema importância, pois, caso contrário, pode afetar a performance do macro.
+3) Também na Page #1, escolha se deseja ativar o macro e, mais importante, qual arma você está usando e se está equipado com algum acessório, como quebra-chamas, compensador, mira, etc. Isso influencia diretamente na performance do macro.
+4) Na Page #2, você pode verificar o tempo restante de sua chave e as informações do criador.
+5) Na Page #3, é possível alterar as teclas de ação, como: abertura do menu e a tecla responsável por ativar o macro.
+6) Ainda na Page #3, é possível também escolher se deseja que a marca d'água no canto superior esquerdo da tela fique visível ou não.
 
 Page #1
 ![image](https://github.com/user-attachments/assets/cbdbf20b-35f3-48f5-b01e-27797b8e9019)
